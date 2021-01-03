@@ -578,6 +578,9 @@ div.sheet-column div.sheet-character-action {
 div.sheet-column div.sheet-character-prof {
   width: 41%; }
 
+div.sheet-column div.sheet-character-prof span {
+    display: inline-block; }
+
 div.sheet-column div.sheet-character-action {
   padding-left: 5%;
   width: 57%; }
